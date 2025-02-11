@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="increase_button">А+</string>
+    <string name="decrease_button">А-</string>
+    <string name="camera_description">Изображение используемое для визуально-аудиального замещения</string>
+    <string name="no_image_camera">Нет изображения с камеры</string>
+    <string name="camera_list_text">Выберите камеру</string>
+    <string name="mode_list_text">Выберите режим</string>
+    <string name="contrast_text">Выберите контраст</string>
+    <string name="contrast_hint">1.00</string>
+    <string name="camera_start">Старт</string>
+    <string name="camera_stop">Стоп</string>
+    <string name="navigation_main_hint">Главная страница</string>
+    <string name="navigation_profile_hint">Страница профиля</string>
+
+    <string-array name="camera_options">
+        <item>Основная</item>
+        <item>Фронтальная</item>
+    </string-array>
+
+    <string-array name="mode_options">
+        <item>Режим 1</item>
+        <item>Режим 2</item>
+        <item>Режим 3</item>
+    </string-array>
+</resources>
